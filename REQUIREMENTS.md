@@ -17,13 +17,17 @@ Some of the features Juan considers would benefit himself are:
 ## Use Cases
 
 **Title:** Check the list of portfolios
+
 **Actor:** Trader
+
 **Scenario:** Trader requests information on the list of portfolios. System requests most recent information all connected APIs. System displays brief and important information relating to all the portfolios. 
 
 
 
 **Title:** Add portfolio
+
 **Actor:** Trader, Application
+
 **Scenario:**
 
 
