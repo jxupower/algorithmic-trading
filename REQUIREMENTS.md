@@ -12,3 +12,34 @@ Some of the features Juan considers would benefit himself are:
 * a graph of the historical returns of:
     * all his portfolios combined
     * each portfolio by itself in order to compare them to each other
+
+
+## Use Cases
+
+**Title:** Check the list of portfolios
+**Actor:** Trader
+**Scenario:** Trader requests information on the list of portfolios. System requests most recent information all connected APIs. System displays brief and important information relating to all the portfolios. 
+
+
+
+**Title:** Add portfolio
+**Actor:** Trader, Application
+**Scenario:**
+
+
+
+**Title:** Check one specific portfolio
+**Actor:** Trader, Application
+**Scenario:**
+
+
+
+**Title:** Check the list of portfolios
+**Actor:** Trader
+**Scenario:**
+
+
+
+**Title:** Check the list of portfolios
+**Actor:** Trader
+**Scenario:**
